@@ -1,0 +1,156 @@
+/*.container {*/
+/*    height: 100%;*/
+/*    width: 100%;*/
+/*    font: 18px 'Gotham Pro Light';*/
+/*}*/
+
+/*.header {*/
+/*    display: flex;*/
+/*    max-width: 100%;*/
+/*    height: 70px;*/
+/*    color: white;*/
+/*    align-items: center;*/
+/*}*/
+
+/*.header img {*/
+/*    width: 60px;*/
+/*    height: 60px;*/
+/*    margin-left: 30px;*/
+/*    align-self: center;*/
+/*}*/
+
+/*.main-area {*/
+/*    display: flex;*/
+/*    height: 80%;*/
+/*}*/
+
+/*.navbar {*/
+/*    background-color: slateblue;*/
+/*    width: 15%;*/
+/*    padding: 20px 30px;*/
+/*    color: white;*/
+/*}*/
+
+/*.profile-page {*/
+/*    margin-left: 10px;*/
+/*    width: 100%;*/
+/*    padding-bottom: 50px;*/
+/*}*/
+
+/*.profile-page img {*/
+/*    max-width: 100%;*/
+/*    height: 150px;*/
+/*}*/
+
+/*.profile-block {*/
+/*    display: flex;*/
+/*    padding: 30px;*/
+/*}*/
+
+/*.profile-block img {*/
+/*    height: 200px;*/
+/*}*/
+
+/*.profile-info {*/
+/*    margin-left: 40px;*/
+/*    color: lightslategray;*/
+/*}*/
+
+/*.add-post-block {*/
+/*    !*display: block;*!*/
+/*    !*padding: 30px 0 30px 30px;*!*/
+/*    position: relative;*/
+/*    !*width: 70%;*!*/
+/*}*/
+
+/*.add-post-block h3 {*/
+/*    !*color: slateblue;*!*/
+/*    !*font-weight: bold;*!*/
+/*}*/
+
+/*.add-post-block input {*/
+/*    !*width: 100%;*!*/
+/*    height: 50px;*/
+/*}*/
+
+/*.add-post-block button {*/
+/*    position: absolute;*/
+/*    background-color: slateblue;*/
+/*    right: -8px;*/
+/*    width: 150px;*/
+/*    height: 30px;*/
+/*    border: none;*/
+/*    color: white;*/
+/*    font: normal 20px 'Gotham Pro Light';*/
+/*}*/
+
+/*.add-post-block button:hover {*/
+/*    background-color: coral;*/
+/*}*/
+
+/*.post-record {*/
+/*    display: flex;*/
+/*    margin: 30px;*/
+/*    max-height: 100px;*/
+/*}*/
+
+/*.post-record img {*/
+/*    border-radius: 50%;*/
+/*    height: 70px;*/
+/*}*/
+
+/*.post-text {*/
+/*    margin: auto 30px;*/
+/*    max-width: 70%;*/
+/*}*/
+
+/*.messages-page {*/
+/*    display: flex;*/
+/*    width: 80%;*/
+/*    padding-bottom: 50px;*/
+/*}*/
+
+/*.dialogs-list {*/
+/*    padding: 30px;*/
+/*    display: block;*/
+/*    align-items: center;*/
+/*    border-right: 1px solid black;*/
+/*    width: 15%;*/
+/*}*/
+
+/*.user-dialog {*/
+/*    height: 30px;*/
+/*    max-width: 200px;*/
+/*    padding: 20px;*/
+/*}*/
+
+/*.user-dialog:hover {*/
+/*    background-color: lightgray;*/
+/*}*/
+
+/*.messages-list {*/
+/*    padding: 30px;*/
+/*    position: relative;*/
+/*    width: 85%;*/
+/*}*/
+
+/*.my-message {*/
+/*    color: black;*/
+/*    height: 30px;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    background-color: #FFE0BC;*/
+/*    padding: 3px 15px 3px 15px;*/
+/*    margin-bottom: 10px;*/
+/*    margin-left: 500px;*/
+/*}*/
+/*.friend-message {*/
+/*    color: black;*/
+/*    height: 30px;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    background-color: #BDCCFF;*/
+/*    padding: 3px 15px 3px 15px;*/
+/*    border-radius: 10px;*/
+/*    margin-bottom: 10px;*/
+/*}*/
