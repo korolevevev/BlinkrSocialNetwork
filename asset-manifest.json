@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BlinkrSocialNetwork/static/css/main.6cbc1cb6.css",
+    "main.js": "/BlinkrSocialNetwork/static/js/main.6236efbd.js",
+    "static/js/787.670f6bb4.chunk.js": "/BlinkrSocialNetwork/static/js/787.670f6bb4.chunk.js",
+    "index.html": "/BlinkrSocialNetwork/index.html",
+    "main.6cbc1cb6.css.map": "/BlinkrSocialNetwork/static/css/main.6cbc1cb6.css.map",
+    "main.6236efbd.js.map": "/BlinkrSocialNetwork/static/js/main.6236efbd.js.map",
+    "787.670f6bb4.chunk.js.map": "/BlinkrSocialNetwork/static/js/787.670f6bb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cbc1cb6.css",
+    "static/js/main.6236efbd.js"
+  ]
+}
